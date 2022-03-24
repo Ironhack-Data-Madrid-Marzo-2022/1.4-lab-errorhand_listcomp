@@ -13,6 +13,7 @@ As you have learned in today's learning, list comprehensions are a tool for tran
 On the other hand, error and exception handling is a very important aspect of writing efficient and robust programs. Error handling guards against potential failures that would cause your program to exit in an uncontrolled fashion.This can have major consequences, imagine of a software for the automatic pilot in a passenger plane not working. 
 
 In this exercise, you will both practice list comprehensions and error handling we discussed in the lessons and learn new techniques by looking up documentations and references. You will work on your own but remember the teaching staff is at your service whenever you encounter problems.
+change
 
 
 ## Getting Started
